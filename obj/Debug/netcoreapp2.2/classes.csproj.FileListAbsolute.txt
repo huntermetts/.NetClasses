@@ -1,0 +1,11 @@
+/Users/HunterMetts/workspace/backendWorkspace/classes/bin/Debug/netcoreapp2.2/classes.deps.json
+/Users/HunterMetts/workspace/backendWorkspace/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.json
+/Users/HunterMetts/workspace/backendWorkspace/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.dev.json
+/Users/HunterMetts/workspace/backendWorkspace/classes/bin/Debug/netcoreapp2.2/classes.dll
+/Users/HunterMetts/workspace/backendWorkspace/classes/bin/Debug/netcoreapp2.2/classes.pdb
+/Users/HunterMetts/workspace/backendWorkspace/classes/obj/Debug/netcoreapp2.2/classes.csprojAssemblyReference.cache
+/Users/HunterMetts/workspace/backendWorkspace/classes/obj/Debug/netcoreapp2.2/classes.csproj.CoreCompileInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfoInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfo.cs
+/Users/HunterMetts/workspace/backendWorkspace/classes/obj/Debug/netcoreapp2.2/classes.dll
+/Users/HunterMetts/workspace/backendWorkspace/classes/obj/Debug/netcoreapp2.2/classes.pdb
